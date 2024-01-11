@@ -1,3 +1,151 @@
 <resources>
-    <string name="app_name">FuelPOS</string>
+
+
+    <string name="location_permission_required">Device Location Permission is Required</string>
+
+    <string name="no_internet">No Internet found, please connect to internet</string>
+    <string name="no_internet_pvt_btn">Ok</string>
+    <string name="no_internet_nvt_btn">Settings</string>
+
+    <string name="internal_error">"Internal Error Occurred!, please try after some time."</string>
+
+    <string name="otp_resend">OTP resend successfully</string>
+
+    <string name="enter_ble_name">Enter bluetooth name</string>
+    <string name="ble_name_can_not_empty">Bluetooth name can not empty</string>
+
+    <string name="save_btn">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="logout_confirmation">Do you want to logout?</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Validation -->
+    <string name="username_empty">Store Id Required</string>
+    <string name="invalid_username">Invalid Store Id</string>
+
+    <string name="password_empty">Password Required</string>
+    <string name="invalid_password">Invalid Password</string>
+
+    <string name="wrong_userid_password">Wrong Store Id or Password</string>
+
+    <string name="mobileno_empty">Mobile Number Required</string>
+    <string name="invalid_mobileno">Invalid Mobile Number</string>
+
+    <string name="otp_empty">OTP can not be empty</string>
+    <string name="otp_length_invalid">Invalid OTP</string>
+    <string name="otp_length_defer">OTP length not 4</string>
+    <!-- End -->
+
+    <!-- SplashActivity -->
+    <string name="app_tag_line">QR/BARCODE/RFID\nscan everything in one app</string>
+    <!-- End -->
+
+    <!-- OtpLoginActivity -->
+    <string name="enter_mob_no">Enter Mobile No.</string>
+    <string name="get_otp_btn_text">Get OTP</string>
+    <!-- End -->
+
+    <!-- OtpVerifyActivity -->
+    <string name="verify_label">Insert OTP</string>
+    <string name="verify_resend_otp_label">Resend OTP</string>
+    <string name="verify_text">Verify</string>
+    <string name="resend_otp_start_time">00:30</string>
+    <string name="resend_otp_stop_time">00:00</string>
+    <!-- End -->
+
+    <!-- UserBLoginActivity -->
+    <!-- <string name="login_info">Pls verify your account</string>
+    <string name="userid_hints">Store Id</string>
+    <string name="password_hints">Password</string>
+    <string name="login_btn_text">Login</string>-->
+    <!-- End -->
+
+    <!-- ChooseOperationActivity -->
+    <string name="goto_asian_paints_label">Go to Display</string>
+    <string name="goto_bt_settings_label">Bluetooth Setting</string>
+    <string name="logout_label">
+        <![CDATA[
+            <u>Logout</u>
+        ]]>
+    </string>
+    <!-- End -->
+
+    <!-- OperationActivity -->
+    <string name="connected_device_heading">Connected Devices</string>
+
+    <string name="ble_not_selected">No BLE device selected</string>
+
+    <string name="card_type">"Card Type: "</string>
+    <string name="card_uid">"Card UID: "</string>
+
+    <string name="back_btn_text">Exit from app</string>
+    <string name="btn_show_web_view">Web View</string>
+    <!-- End -->
+
+    <!-- ConnectedBtDeviceAdapter -->
+    <string name="rename_bt_device">Rename</string>
+    <!-- End -->
+
+    <!-- PairedBluetoothDeviceActivity -->
+    <string name="paired_device_heading">Paired Bluetooth Devices</string>
+    <string name="scan_for_new_devices">Scan for New Devices</string>
+    <!-- End -->
+
+    <!-- PairedBtDevicesAdapter -->
+    <string name="connected_bt_device">Connected</string>
+    <string name="disconnected_bt_device">Disconnected</string>
+
+    <string name="delete_bt_device">Delete</string>
+    <!-- End -->
+
+    <!-- RFIDScanActivity -->
+    <string name="Bluetooth_not_supported">Bluetooth not supported</string>
+    <string name="BLE_not_supported">BLE not supported</string>
+    <string name="scan_button_text">Scan</string>
+    <string name="scanning">Scanning...</string>
+    <string name="scan_again">Scan Again</string>
+    <!-- end -->
+
+    <!-- Fuel_POS -->
+    <string name="app_name">Fuel POS</string>
+    <string name="login_info">POS operator login</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="anpr_btn_txt">ANPR</string>
+    <string name="fastag_btn_txt">Fastag</string>
+    <string name="cash_upi_btn_txt">Cash/UPI</string>
+    <string name="collecting_via">Collect Payment Via</string>
+    <string name="welcome_txt">Welcome</string>
+    <string name="dutta_txt">A Dutta(#2345)</string>
+    <string name="anpr_txt">ANPR</string>
+    <string name="fastag_txt">FASTAG</string>
+    <string name="cash_upi_txt">CASH / UPI</string>
+    <string name="input_vrn">Enter VRN No.</string>
+    <string name="input_mobile">Enter Mobile No.</string>
+    <string name="input_amount">Enter Amount</string>
+    <string name="submit">Submit</string>
+    <string name="vehicle_no_detected">Vehicle Number Detected</string>
+    <string name="vehicle_no">WB 08C 9200</string>
+    <string name="amount">amount</string>
+    <string name="amount_collected">Amount Collected Successfully</string>
+    <string name="cash_collected">Cash Collected Successfully</string>
+    <string name="collected_via_upi">Collected Successfully Via UPI</string>
+    <string name="collect_via">Collect Via UPI</string>
+    <string name="collect">Collect</string>
+    <string name="txn_id">Txn ID : </string>
+    <string name="cash">Cash</string>
+    <string name="upi">UPI</string>
+    <string name="qr_scan">Customer to scan above QR through Gpay,Paytm,Phonepe,etc. </string>
+    <string name="any_pay">through Gpay,Paytm,Phonepe,etc.</string>
+    <string name="to_pay">to pay Rs.</string>
+    <string name="number">98300XXXXX</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="capture_txt">Capture</string>
+    <string name="retake_txt">Retake</string>
+    <string name="empty">Empty</string>
+    <string name="greater5digitNo">Amount should be less than 6 digit</string>
+
 </resources>
