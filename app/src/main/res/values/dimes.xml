@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <dimen name="bg_padding">40dp</dimen>
+    <dimen name="zero_width_height">0dp</dimen>
+    <dimen name="one_dp_width_height">1dp</dimen>
+    <dimen name="rename_dialog_padding_left">20dp</dimen>
+    <dimen name="rename_dialog_padding_right">20dp</dimen>
+
+    <!-- Text Size -->
+    <dimen name="textsize_80sp">80sp</dimen>
+    <dimen name="textsize_50sp">50sp</dimen>
+    <dimen name="textsize_45sp">45sp</dimen>
+    <dimen name="textsize_40sp">40sp</dimen>
+    <dimen name="textsize_30sp">30sp</dimen>
+    <dimen name="textsize_24sp">24sp</dimen>
+    <dimen name="textsize_20sp">20sp</dimen>
+    <dimen name="textsize_16sp">16sp</dimen>
+    <dimen name="textsize_12sp">12sp</dimen>
+    <!-- End -->
+    <!-- End -->
+
+    <!-- SplashActivity -->
+    <dimen name="super_scan_text_logo_margin_bottom">20dp</dimen>
+    <!-- End -->
+
+    <!-- OtpLoginActivity -->
+    <dimen name="login_logo_margin_bottom">10dp</dimen>
+    <dimen name="login_info_margin_bottom">0dp</dimen>
+    <dimen name="app_logo_margin_right">20dp</dimen>
+    <dimen name="app_logo_margin_bottom">10dp</dimen>
+    <dimen name="login_margin_bottom_button">5dp</dimen>
+    <!-- End -->
+
+    <!-- OtpVerifyActivity -->
+    <dimen name="edt_otp1_container_padding_right">20dp</dimen>
+    <dimen name="edt_otp2_container_padding_right">20dp</dimen>
+    <dimen name="edt_otp3_container_padding_right">10dp</dimen>
+    <dimen name="edt_otp4_container_padding_left">10dp</dimen>
+    <!-- End -->
+
+    <!-- UserBLoginActivity -->
+    <dimen name="ap_big_logo_margin_bottom">40dp</dimen>
+    <dimen name="tag_line_margin_bottom">30dp</dimen>
+    <dimen name="userid_margin_bottom">30dp</dimen>
+    <dimen name="password_margin_bottom">50dp</dimen>
+    <dimen name="login_margin_bottom">30dp</dimen>
+    <!-- End -->
+
+    <!-- ChooseOperationActivity -->
+    <dimen name="goto_asian_paints_margin_bottom">60dp</dimen>
+    <dimen name="goto_bt_settings_margin_bottom">60dp</dimen>
+    <!-- End -->
+
+    <!-- OperationActivity -->
+    <dimen name="connected_device_heading_margin_bottom">15dp</dimen>
+    <dimen name="bt_device_margin_right">2dp</dimen>
+    <dimen name="bt_device_margin_bottom">5dp</dimen>
+    <dimen name="text_view_margin_right">20dp</dimen>
+    <!-- End -->
+
+    <!-- ConnectedBtDeviceAdapter -->
+    <dimen name="bt_device_adapter_padding_top">20dp</dimen>
+    <dimen name="bt_device_adapter_padding_bottom">20dp</dimen>
+    <!-- End -->
+
+    <!-- PairedBluetoothDeviceActivity -->
+    <dimen name="paired_device_heading_margin_top">20dp</dimen>
+    <dimen name="paired_device_heading_margin_bottom">20dp</dimen>
+
+    <dimen name="scan_for_new_devices_margin_top">20dp</dimen>
+    <!-- End -->
+
+    <!-- PairedBtDevicesAdapter -->
+    <dimen name="bt_paired_device_adapter_padding_top">20dp</dimen>
+    <dimen name="bt_paired_device_adapter_padding_bottom">20dp</dimen>
+
+    <dimen name="rename_bt_name_margin_right">20dp</dimen>
+    <dimen name="connected_bt_device_margin_bottom">10dp</dimen>
+
+    <dimen name="delete_bt_device_margin_bottom">10dp</dimen>
+    <!-- End -->
+
+    <!-- RFIDScanActivity -->
+    <dimen name="after_authentication_margin_left_right">25dp</dimen>
+    <dimen name="scan_button_text_size">20sp</dimen>
+    <dimen name="scandevice_each_item_padding_top_buttom">20dp</dimen>
+    <dimen name="after_authentication_padding_left_right">25dp</dimen>
+    <!-- End -->
+
+    <!-- Fuel Pos -->
+    <dimen name="login_info_padding_start_40dp">40dp</dimen>
+
+    <dimen name="choose_operation_margin_bottom_btn">20dp</dimen>
+    <dimen name="margin_vertical_30dp">30dp</dimen>
+    <dimen name="margin_top_10dp">10dp</dimen>
+    <dimen name="margin_top_30dp">30dp</dimen>
+    <dimen name="margin_bottom_40dp">40dp</dimen>
+    <dimen name="padding_30dp">30dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="margin_bottom_50dp">50dp</dimen>
+    <dimen name="margin_vertical_40dp">40dp</dimen>
+</resources>

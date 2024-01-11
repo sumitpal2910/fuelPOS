@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="bg_color">#EEEEEE</color>
+    <color name="blue_bg_color">#6325E8</color>
+    <color name="blue_text_color">#6325E8</color>
+    <color name="green_shade">#5CA941</color>
+    <color name="black_shade">#565656</color>
+    <color name="login_btn_bg">#53F819</color>
+    <color name="blue_btn_bg">#431A80</color>
+    <color name="orange_btn_bg">#FF6D59</color>
+    <color name="button_disable_color">#cccccc</color>
+
+    <!-- Fuel POS App Colors-->
+
+    <color name="bg_grey_login_otp">#D9D9D9</color>
+    <color name="bg_text_dark_black">#000000</color>
+    <color name="bg_submit_button">#C988C6</color>
+    <color name="bg_cash_upi_button">#98DA88</color>
+    <color name="bg_anpr_button">#EC6317</color>
+    <color name="bg_fastag_button">#268EEE</color>
+    <color name="bg_anpr">#F0915C</color>
+    <color name="bg_fastag">#B5D8F8</color>
+    <color name="bg_cash_upi">#98DA88</color>
+    <color name="bg_upi_btn">#BFBFBF</color>
+    <color name="bg_qr">#F8F8F8</color>
+    <color name="bg_drawer">#3C3B3B</color>
+    <color name="icon_clr">#FFC107</color>
+
+</resources>
